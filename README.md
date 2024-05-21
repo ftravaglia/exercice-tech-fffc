@@ -1,5 +1,5 @@
 # Convertisseur de formats de fichiers fixes
-
+#### TEST POUR VERIF MR CAPABILITY
 Votre objectif est d'écrire un outil générique pour convertir des fichiers de format fixe en fichier csv sur la base d'un fichier de métadonnées décrivant leur structure.
 
 N'hésitez pas à utiliser votre langage et vos librairies préférés si nécessaire (mais pas de librairies propriétaires, uniquement des librairies open source), faites un fork de ce projet et fournissez votre code complet sous forme de pull request (incluant les sources et les tests).
